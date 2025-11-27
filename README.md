@@ -2,7 +2,7 @@
 <!--I am keeping the "Safiya" heading for its my name-->
 # 🌸 **Safiya Hashimi**
 ### Learner at MIT Emerging Talent — Cohort 6 (2025)
-***Tech explorer, STEM Advocate and development enthusiast!***
+***Tech Explorer, STEM Advocate and Development Enthusiast!***
 
 ---
 ## 👋 Welcome!
@@ -43,7 +43,6 @@ I combine creativity, logic, and purpose, especially when it empowers me and oth
 - Determined to uplift and inspire girls in STEM  
 
 ![Alt Text](https://cms.qz.com/wp-content/uploads/2019/03/AP_050122012029-e1553952625130.jpg?quality=75&strip=all&w=1400)
-[Reach me through this link](<https://www.linkedin.com/in/safiya-hashimi-21b1b9304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app>)
 
 ---
 ## 🚀 Current Journey
