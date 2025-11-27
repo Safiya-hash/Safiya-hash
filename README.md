@@ -1,11 +1,18 @@
+<!-- markdownlint-disable MD013 -->
+
 *Hello all!*
-<!--I am keeping the "Safiya" heading for its my name-->
+
+<!--I am keeping the "Safiya Hashimi" heading for its my name-->
 # 🌸 **Safiya Hashimi**
-### Learner at MIT Emerging Talent — Cohort 6 (2025)
+
+## Learner at MIT Emerging Talent — Cohort 6 (2025)
+
 ***Tech Explorer, STEM Advocate and Development Enthusiast!***
 
 ---
-## 👋 Welcome!
+
+## 👋 Welcome
+
 I’m **Safiya**, an Afghan girl currently residing in France, and a proud participant in the **MIT Emerging Talent Program 2025**.  
 My journey into **computer science** began with MIT, where I discovered a passion for coding, undrestanding algorithms, working with data, and building meaningful digital solutions.
 
@@ -14,12 +21,14 @@ I combine creativity, logic, and purpose, especially when it empowers me and oth
 ---
 
 ## 🎯 Goals & Aspirations
+
 - 📊 Become a **Data Scientist** who transforms information into insight;  
 - 💻 Work on **tech projects** that solve real world challenges;
 - 👧 Contribute to **educational platforms for Afghan girls in STEM**  
-- 🌍 Use technology for opportunity, equity, and positive impact 
+- 🌍 Use technology for opportunity, equity, and positive impact
 
 ---
+
 ## 💻 Technical Toolkit
 
 | Tools & Skills | Description |
@@ -45,6 +54,7 @@ I combine creativity, logic, and purpose, especially when it empowers me and oth
 ![Alt Text](https://cms.qz.com/wp-content/uploads/2019/03/AP_050122012029-e1553952625130.jpg?quality=75&strip=all&w=1400)
 
 ---
+
 ## 🚀 Current Journey
 
 I am learning, experimenting, and building — step by step — toward a future in **data science** and **impact-driven tech innovation**.  
@@ -54,6 +64,6 @@ The MIT Emerging Talent Program is my launchpad into deeper computational thinki
 
 ## 🔗 Connect With Me
 
-**LinkedIn:** https://www.linkedin.com/in/safiya-hashimi/
+**LinkedIn:** <https://www.linkedin.com/in/safiya-hashimi/>
 
 ---
